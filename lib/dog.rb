@@ -13,4 +13,12 @@ class Dog
     @@all
 end
 
+def print_all
+  @name
+end
+
+def save
+  @@all
+end
+
 end
