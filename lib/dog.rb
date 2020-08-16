@@ -18,7 +18,7 @@ def self.clear_all
 end 
 
 def print_all
-  @name
+  
 end
 
 def save
